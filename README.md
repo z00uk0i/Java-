@@ -4,7 +4,7 @@ Java常用代码
 JavaSE
 --
 #异常
-Please don't use any `<blink>` tags.
+<p>Please don't use any <code>&lt;blink&gt;</code> tags.</p>
 
 
 
