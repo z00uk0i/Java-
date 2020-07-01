@@ -1,7 +1,7 @@
 # Java常用代码
 
-<p>This is <a href="http://example.com/" title="Title">
-an example</a> inline link.</p>
+<p>This is <a href="https://github.com/z00uk0i/Java-/blob/master/SSM" title="Title">
+SSM</a> inline link.</p>
 
 ## JavaSE
 ### 异常
