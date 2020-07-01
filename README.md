@@ -1,18 +1,17 @@
-Java常用代码
-==
+# Java常用代码
 
-JavaSE
---
-# 异常
 
+## JavaSE
+### 异常
 
 
 
 
 
-SSM+Redis
---
-# 反射
+
+## SSM+Redis
+### 反射
+
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
